@@ -32,7 +32,7 @@ En partant des données officielles issues du **Ministère de l’Éducation nat
 ---
 
 ## Aperçu du rapport 📸
-*(Ajoute l’image plus tard si tu veux)*
+
 
 ![Aperçu du dashboard](Langues1.png)
 
