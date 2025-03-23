@@ -27,7 +27,7 @@ En partant des données officielles issues du **Ministère de l’Éducation nat
 | Fichier | Description |
 |---------|-------------|
 | `Repartition_Linguistique_Lycees_Colleges.pbix` | Rapport Power BI complet sur la répartition linguistique |
-| `Langues1.png` | Capture d’écran du dashboard (à venir) |
+| `Langues1.png` | Capture d’écran du dashboard  |
 
 ---
 
